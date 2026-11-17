@@ -360,7 +360,7 @@ hero.images[isSelected] 기준:
 | `data-facility-name`        | `.special_wrap .info .txt .stxt`          | `facilities[current].name` (영문 `.btxt`='SPECIAL' 정적)                                                                 |
 | `data-facility-description` | `.special_wrap .info .ctxt p`             | `pages.facility[current.id].sections[0].about.title` 우선, 없으면 `facilities[current].description` fallback (\n→`<br>`) |
 | `data-facility-image`       | `.special_wrap .info .img p` (배경)       | `facilities[current].images[isSelected][0].url` (없으면 placeholder)                                                     |
-| `data-facility-gallery`     | `.special_wrap .list`                     | `facilities[current].images[isSelected]` (각 li p배경 순서대로)                                                          |
+| `data-facility-gallery`     | `.special_wrap .list`                     | `facilities[current].images[isSelected][1]`, `[2]` (조각컷 2칸, `[0]` 은 타원형 칸)                                     |
 | `data-index-special-slides` | `.main_special .spec-img .swiper-wrapper` | `property.facilities[]` (이미지 슬라이더, index와 동일)                                                                  |
 | `data-index-special-titles` | `.main_special .spec-tit`                 | `facilities[]` (stxt=name)                                                                                               |
 | `data-index-special-texts`  | `.main_special .spec-txt .swiper-wrapper` | `facilities[]` (`SPECIAL 0N` 번호만, 설명 미노출)                                                                                        |
