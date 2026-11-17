@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-11-17T03:40:19.981918724Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-11-17T05:06:14.747647789Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -26,7 +26,7 @@
     "reservationGuide": "- 객실 내에서는 절대 금연입니다. 지정된 장소를 이용해 주시기 바랍니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 저희 펜션은 법적으로 미성년자 예약 및 혼숙이 금지되어 있습니다.\n-  미성년자의 예약 및 이용은 숙소 규정에 따라 결정되며 해당 사유로 환불받을 수 없습니다.\n- 다음 이용 고객을 위해 입실, 퇴실 시간을 준수해 주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 객실의 안전과 화재예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않으며, 개인적으로 준비해 오는 취사도구(그릴, 숯, 전기/전열기구 등)은 반입이 금지되어 있습니다.\n- 객실 내 육류, 튀김류, 생선류 조리 금지입니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 반려동물 동반 불가합니다.",
     "province": "도/시",
     "city": "시/군/구",
-    "domain": "bsjecheon.com",
+    "domain": "bsjecheon.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13789",
     "ybsId": "",
     "tripPropertyId": "13789",
@@ -1186,7 +1186,7 @@
   ],
   "homepage": {
     "id": "01a1e72b-8672-7b7f-aa28-15f204b04d8e",
-    "domain": "bsjecheon.com",
+    "domain": "bsjecheon.kr",
     "templateType": "trip_d",
     "images": [
       {
@@ -1723,18 +1723,9 @@
             "category": "property_exterior"
           },
           {
-            "id": "01a1e73b-6019-74ce-ab79-bb2b9502dba3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794880788389-4zk6h4077t.jpg",
+            "id": "01a1e7e5-fea5-7264-ad6e-92a5f3379cfe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794891971869-vhjdbcw0rs.jpg",
             "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "01a1e73b-600b-7197-970c-9ad89e72111b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794880788285-bf481ior7g.jpg",
-            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null,
@@ -1743,7 +1734,7 @@
           {
             "id": "01a1e73b-5e68-72b5-abe3-7019d6459e39",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794880788370-miexiuq4f1.jpg",
-            "sortOrder": 7,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null,
@@ -1752,7 +1743,7 @@
           {
             "id": "01a1e73b-6045-7704-a26c-57a9b0ddb5b7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794880788508-4qpjqabzih.jpg",
-            "sortOrder": 8,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null,
@@ -1761,7 +1752,7 @@
           {
             "id": "01a1e73b-5f1a-7f85-8378-b204891d9ec3",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794880788263-zqkm0v6f8c.jpg",
-            "sortOrder": 9,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null,
@@ -1770,7 +1761,7 @@
           {
             "id": "01a1e73b-6027-7a91-b689-0884dc7d35e9",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794880788478-k052xnigcp.jpg",
-            "sortOrder": 10,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null,
@@ -1779,7 +1770,7 @@
           {
             "id": "01a1e73b-5f25-7312-ba44-0329bb12ae55",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_exterior/1794880788340-hxexdoybrg.jpg",
-            "sortOrder": 11,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null,
