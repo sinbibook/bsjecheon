@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-11-17T03:05:20.426657794Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-11-17T03:25:05.712330641Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -74,7 +74,7 @@
       {
         "id": "01a1e70a-d7aa-76ae-9d02-d66ed8c68799",
         "name": "호수뷰",
-        "description": "",
+        "description": "햇살이 닿을 때마다 청풍호의 물빛이 조금씩 달라집니다.\n호수가 보이는 자리에 앉아 눈앞의 풍경을 천천히 즐겨보세요.",
         "usageGuide": "",
         "displayOrder": 0,
         "images": [
@@ -1190,7 +1190,16 @@
     "templateType": "trip_d",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "01a1e789-680f-7814-9a70-22c4d5b67231",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/logo/1794885904076-ieo9afs3br.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
