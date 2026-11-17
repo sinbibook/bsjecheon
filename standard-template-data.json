@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.31.0",
-    "generatedAt": "2026-11-17T05:35:47.438895530Z",
+    "version": "1.32.0",
+    "generatedAt": "2026-11-17T05:47:14.172264291Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -1671,8 +1671,8 @@
         "name": "제천 비에스(BS)펜션",
         "images": [
           {
-            "id": "01a1e73b-5f1a-7294-b5c5-3aefb2e0fd40",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_thumbnail/1794880788263-i4vxz547o4.jpg",
+            "id": "01a1e80b-7fc9-7935-a9dc-327596e9c151",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/property_thumbnail/1794894429818-exc98zieja.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
