@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-17T02:35:25.989788583Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-17T02:50:32.723893339Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -1497,7 +1497,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "청풍호를 마주한 벽돌집 앞으로 나무 데크가 이어지고,\n호수 건너편에는 산자락이 겹겹이 펼쳐집니다.\n\n해가 기울면 데크를 따라 하나둘 불이 켜집니다.\n따뜻한 불빛 아래 호숫가의 저녁을 천천히 즐겨보세요."
               },
               "about": [
                 {
