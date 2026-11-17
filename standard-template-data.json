@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-11-17T05:14:27.383238732Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-11-17T05:14:49.885687656Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -1351,8 +1351,8 @@
                 "title": "A slow morning by the lake",
                 "images": [
                   {
-                    "id": "01a1e7ed-7e53-72d3-9cb0-7f806dbd3038",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/index_essence/1794892463246-2ca7trxt0e.jpg",
+                    "id": "01a1e7ed-d624-7ee3-b438-2f0f08d0280f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/index_essence/1794892485866-1dssuz3wa4.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
