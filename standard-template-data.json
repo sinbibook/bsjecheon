@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-11-17T02:57:31.498913949Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-11-17T02:58:33.711037463Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -1336,7 +1336,7 @@
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "간직하고 싶은 소중한 추억을 만들고 싶은 날 모든 순간이 소중해 집니다.\n편안함과 즐거움,아름다움이 함께하는\n제천 비에스(BS)펜션에서 행복한 추억을 만들어가세요."
               },
               "essence": {
                 "title": "A slow morning by the lake",
