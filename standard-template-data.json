@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-11-17T02:50:32.723893339Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-11-17T02:57:31.498913949Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -1398,7 +1398,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "A slow morning by the lake",
                 "images": [
                   {
                     "id": "01a1e74e-2498-7411-946f-5a7c807dd00d",
