@@ -89,7 +89,7 @@ roomStructures[0] + "/ " + 값≥1인 항목들 나열
 >   | `data-facility-menu-link` | SPECIAL 서브메뉴 컨테이너 `<ul>` (3곳) | `property.facilities[].name` (컨테이너 비우고 동적 생성) |
 >   | `data-menu-id="layout-map"` | ROOMS > 미리보기 `<li>`(=layout-map) | `customFields.pages.layoutMap.sections[0].enabled` (섹션 없음 / false면 숨김) |
 >   | `data-rooms-link` | 대메뉴 ROOMS `<a>` (PC lnb / 전체메뉴 2곳, 모바일 aside 는 링크 아님) | `customFields.pages.layoutMap.sections[0].enabled` (켜짐 → `layout-map.html` / 꺼짐 → 첫 객실 상세) |
->   | `data-allmenu-bg` | 전체메뉴(allmenu-wrap) 오버레이 배경 `.bg02` | `property.images[0].thumbnail[isSelected][0].url` (없으면 exterior → placeholder) |
+>   | `data-allmenu-bg` | 전체메뉴(allmenu-wrap) 오버레이 배경 `.bg02` | 홈페이지설정 썸네일 `customFields.property.images[category=property_thumbnail]` → 숙소설정 `property.images[0].thumbnail` → 홈페이지설정 외경 → 숙소설정 외경 → placeholder |
 >   | `data-travel-menu` | ABOUT > 주변관광지 `<li>` (3곳, 오시는길 아래) | `customFields.pages.nearbyAttractions.sections[0].enabled` (false면 숨김) |
 
 - ROOMS 서브메뉴: `customFields.roomtypes[].name` 기준 `<li><a href="room.html?room_id={id}">` 생성.
@@ -378,9 +378,9 @@ hero.images[isSelected] 기준:
 | `data-reservation-hero-slides`       | `.sub_visual .svisual .swiper-wrapper` | `pages.reservation.sections[0].hero.images[isSelected]` (배경 슬라이드)                                |
 | `data-reservation-title`             | `.sub_title .sub_txt`                  | `pages.reservation.sections[0].hero.title` (없으면 `예약시 참고하실 내용을 안내해 드립니다.` fallback) |
 | `data-booking-link`                  | `#snb_wrap` 예약하기 `<a>`             | `property.realtimeBookingId` (header-footer-mapper 공통 처리)                                          |
-| `data-reservation-checkin-info`      | 이용안내 dd `<p>` (입퇴실)             | `[입퇴실안내]` 라벨 + `property.checkin`/`checkout`/`checkInOutInfo`                                   |
+| `data-reservation-checkin-info`      | 이용안내 dd `<p>` (입퇴실)             | `checkInOutInfo` (없으면 `checkin`/`checkout` 으로 `[입퇴실안내]` 생성). `usageGuide` 에 이미 들어 있으면 숨김 |
 | `data-reservation-usage-guide`       | 이용안내 dd `<p>` (이용)               | `property.usageGuide` (\n→`<br>`)                                                                      |
-| `data-reservation-reservation-guide` | 이용안내 dd `<p>` (예약)               | `property.reservationGuide` (\n→`<br>`)                                                                |
+| `data-reservation-reservation-guide` | 이용안내 dd `<p>` (예약)               | `property.reservationGuide` (\n→`<br>`). `usageGuide` 에 같은 내용이 있으면 숨김                        |
 | `data-reservation-refund-policies`   | 환불안내 dd                            | `property.refundPolicies[]` (동적: `* 이용일 N일 이전 취소시 R% 환불`)                                 |
 
 - snb 이용안내 항목은 현재 페이지라 정적 active. 환불 당일(`refundProcessingDays===0`)은 `* 당일 취소시 R% 환불`.
