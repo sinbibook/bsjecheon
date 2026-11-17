@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-11-17T03:25:05.712330641Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-11-17T03:39:39.277500449Z",
     "templateType": "trip_d",
     "propertyId": "01a18af7-ed1b-741f-9bbc-ae94512429f5",
     "homepageId": "01a1e72b-8672-7b7f-aa28-15f204b04d8e"
@@ -22,11 +22,11 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22:00 이후 입실 시 펜션에 미리 연락 주시기 바랍니다. \n※ 퇴실하시기 전 잊으신 물건이 없는지 확인 부탁드리며, 되도록 시설물 및 소모품은 원위치에 정돈해 주십시오.",
-    "usageGuide": "- 객실 내에서는 절대 금연입니다. 지정된 장소를 이용해 주시기 바랍니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 저희 펜션은 법적으로 미성년자 예약 및 혼숙이 금지되어 있습니다.\n-  미성년자의 예약 및 이용은 숙소 규정에 따라 결정되며 해당 사유로 환불받을 수 없습니다.\n- 다음 이용 고객을 위해 입실, 퇴실 시간을 준수해 주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 객실의 안전과 화재예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않으며, 개인적으로 준비해 오는 취사도구(그릴, 숯, 전기/전열기구 등)은 반입이 금지되어 있습니다.\n- 객실 내 육류, 튀김류, 생선류 조리 금지입니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 반려동물 동반 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22:00 이후 입실 시 펜션에 미리 연락 주시기 바랍니다. \n※ 퇴실하시기 전 잊으신 물건이 없는지 확인 부탁드리며, 되도록 시설물 및 소모품은 원위치에 정돈해 주십시오.\n\n[인원추가정보]\n[연령기준]\n- 성인: 2세 이상\n- 아동: 24개월 이상~2세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 유아도 인원수에 포함됩니다.\n※ Late check-out(늦은 퇴실)의 경우 별도의 요금이 부과됩니다. (30분당 10,000원/VAT 포함)\n※ 오후 3시 이후 퇴실 시 1박 요금 적용 \n※ 침구 추가 1인 싱글이불셋트(이불+패드+베게1) 10,000원의 요금이 발생됩니다.(현장결제)\n※ 1박 투숙 시 객실 정원수만큼 타올이 제공됩니다. \n※ 연박시 침구류 교체와 청소는 3박부터 가능합니다.\n\n[공용바베큐]\n- 이용 객실: 옥순봉, 옥순대교 객실\n- 이용 장소: 1층 야외 바베큐장\n- 바베큐 형태: 숯불 \n- 제공 구성: 숯+그릴망\n- 이용 요금:  2인 20,000원 / 3인 이상 30,000원 (1박기준/현장결제)\n- 신청: ~19:00\n- 준비 소요시간: 30분 \n- 우천시 : 가능\n- 강풍시 : 가능\n- 동절기 : 가능\n※ 이용 시간 제한 없습니다.\n※ 외부에서 버너, 숯 등 모든화기 반입 금지 : 위반 시 퇴실조치됩니다.\n\n[개별바베큐]\n- 이용 객실: 구담봉 객실\n- 이용 장소: 객실 앞\n- 바베큐 형태: 숯불 \n- 제공 구성: 숯+그릴망\n- 이용 요금:  2인 20,000원 / 3인 이상 30,000원 (1박기준/현장결제)\n- 신청: ~19:00\n- 준비 소요시간: 30분 \n- 우천시 : 가능\n- 강풍시 : 가능\n- 동절기 : 가능\n※ 이용 시간 제한 없습니다.\n※ 외부에서 버너, 숯 등 모든화기 반입 금지 : 위반 시 퇴실조치됩니다.\n\n[스파]\n- 이용 객실: 옥순대교, 옥순봉\n- 스파 형태: 제트스파\n- 수용 인원: 2명\n- 이용 요금: 무료\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n※ 신청 시간은 따로 없으며, 이용 시간 또한 제한 없습니다.\n\n[편의 및 주변 시설]\n- 와이파이:보유\n- 화재감지기: 보유\n- 일산화탄소 감지기 : 보유\n- 엘레베이터: 미보유\n- 넷플릭스: 가능\n※ 개인계정 필요\n- 매점 보유\n\n[주변 여행지]\n\n- 옥순봉 출렁다리 도보 1분 \n- 카약체험장 도보 5분\n- 옥순대교 도보 8분 \n- 청풍호 유람선 차량 20분\n- 제천케이블카 차량 30분 \n- 제천 청풍랜드 차량 40분 \n- 단양역 차량 30분\n- 단양 페러글라이딩 차량 40분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 최대 7대(객실 당 제한은 없습니다.)\n- 위치: 펜션 바로 앞\n- 전기차 충전기: 미보유\n※ 출렁다리 바로 앞에 전기차 충전기 있습니다.\n\n[교통편]\n- 옥순봉 출렁다리 주차장으로 진입 후, 팬션 전용 출입구로 들어오시면 됩니다.",
+    "usageGuide": "[공지사항]\n- 객실 내에서는 절대 금연입니다. 지정된 장소를 이용해 주시기 바랍니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 저희 펜션은 법적으로 미성년자 예약 및 혼숙이 금지되어 있습니다.\n-  미성년자의 예약 및 이용은 숙소 규정에 따라 결정되며 해당 사유로 환불받을 수 없습니다.\n- 다음 이용 고객을 위해 입실, 퇴실 시간을 준수해 주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 객실의 안전과 화재예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않으며, 개인적으로 준비해 오는 취사도구(그릴, 숯, 전기/전열기구 등)은 반입이 금지되어 있습니다.\n- 객실 내 육류, 튀김류, 생선류 조리 금지입니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 반려동물 동반 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22:00 이후 입실 시 펜션에 미리 연락 주시기 바랍니다. \n※ 퇴실하시기 전 잊으신 물건이 없는지 확인 부탁드리며, 되도록 시설물 및 소모품은 원위치에 정돈해 주십시오.\n\n[인원추가정보]\n[연령기준]\n- 성인: 2세 이상\n- 아동: 24개월 이상~2세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아도 인원수에 포함됩니다.\n※ Late check-out(늦은 퇴실)의 경우 별도의 요금이 부과됩니다. (30분당 10,000원/VAT 포함)\n※ 오후 3시 이후 퇴실 시 1박 요금 적용 \n※ 침구 추가 1인 싱글이불셋트(이불+패드+베게1) 10,000원의 요금이 발생됩니다.(현장결제)\n※ 1박 투숙 시 객실 정원수만큼 타올이 제공됩니다. \n※ 연박시 침구류 교체와 청소는 3박부터 가능합니다.\n\n[공용바베큐]\n- 이용 객실: 옥순봉, 옥순대교 객실\n- 이용 장소: 1층 야외 바베큐장\n- 바베큐 형태: 숯불 \n- 제공 구성: 숯+그릴망\n- 이용 요금:  2인 20,000원 / 3인 이상 30,000원 (1박기준/현장결제)\n- 신청: ~19:00\n- 준비 소요시간: 30분 \n- 우천시 : 가능\n- 강풍시 : 가능\n- 동절기 : 가능\n※ 이용 시간 제한 없습니다.\n※ 외부에서 버너, 숯 등 모든화기 반입 금지 : 위반 시 퇴실조치됩니다.\n\n[개별바베큐]\n- 이용 객실: 구담봉 객실\n- 이용 장소: 객실 앞\n- 바베큐 형태: 숯불 \n- 제공 구성: 숯+그릴망\n- 이용 요금:  2인 20,000원 / 3인 이상 30,000원 (1박기준/현장결제)\n- 신청: ~19:00\n- 준비 소요시간: 30분 \n- 우천시 : 가능\n- 강풍시 : 가능\n- 동절기 : 가능\n※ 이용 시간 제한 없습니다.\n※ 외부에서 버너, 숯 등 모든화기 반입 금지 : 위반 시 퇴실조치됩니다.\n\n[스파]\n- 이용 객실: 옥순대교, 옥순봉\n- 스파 형태: 제트스파\n- 수용 인원: 2명\n- 이용 요금: 무료\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n※ 신청 시간은 따로 없으며, 이용 시간 또한 제한 없습니다.\n\n[편의 및 주변 시설]\n- 와이파이:보유\n- 화재감지기: 보유\n- 일산화탄소 감지기 : 보유\n- 엘레베이터: 미보유\n- 넷플릭스: 가능\n※ 개인계정 필요\n- 매점 보유\n\n[주변 여행지]\n\n- 옥순봉 출렁다리 도보 1분 \n- 카약체험장 도보 5분\n- 옥순대교 도보 8분 \n- 청풍호 유람선 차량 20분\n- 제천케이블카 차량 30분 \n- 제천 청풍랜드 차량 40분 \n- 단양역 차량 30분\n- 단양 페러글라이딩 차량 40분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 최대 7대(객실 당 제한은 없습니다.)\n- 위치: 펜션 바로 앞\n- 전기차 충전기: 미보유\n※ 출렁다리 바로 앞에 전기차 충전기 있습니다.\n\n[교통편]\n- 옥순봉 출렁다리 주차장으로 진입 후, 팬션 전용 출입구로 들어오시면 됩니다.",
     "reservationGuide": "- 객실 내에서는 절대 금연입니다. 지정된 장소를 이용해 주시기 바랍니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 저희 펜션은 법적으로 미성년자 예약 및 혼숙이 금지되어 있습니다.\n-  미성년자의 예약 및 이용은 숙소 규정에 따라 결정되며 해당 사유로 환불받을 수 없습니다.\n- 다음 이용 고객을 위해 입실, 퇴실 시간을 준수해 주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 객실의 안전과 화재예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않으며, 개인적으로 준비해 오는 취사도구(그릴, 숯, 전기/전열기구 등)은 반입이 금지되어 있습니다.\n- 객실 내 육류, 튀김류, 생선류 조리 금지입니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 반려동물 동반 불가합니다.",
     "province": "도/시",
     "city": "시/군/구",
-    "domain": "bsjecheon.kr",
+    "domain": "bsjecheon.com",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13789",
     "ybsId": "",
     "tripPropertyId": "13789",
@@ -384,7 +384,7 @@
           {
             "id": "01a1e328-c668-7aa4-adda-24523204086f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/YcumK0MBeREl.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -394,7 +394,7 @@
           {
             "id": "01a1e328-c66d-7d27-9c28-df3d88d77221",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/oUgEiCtrNIb7.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -402,7 +402,7 @@
           {
             "id": "01a1e328-c66e-71fb-ac85-c9f9289a2f75",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/UPoHpfTBNGiZ.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -410,7 +410,7 @@
           {
             "id": "01a1e328-c66e-7f0b-b01a-7b8c6d9bc71e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/HDEpkbsqRh3j.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -418,7 +418,7 @@
           {
             "id": "01a1e328-c66f-71bf-b371-5bff7712b6d0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/3kRZsolejTi7.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -426,7 +426,7 @@
           {
             "id": "01a1e328-c66f-7487-8411-356eae2d7631",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/9IrVuzQiCRFj.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -434,7 +434,7 @@
           {
             "id": "01a1e328-c670-7c43-baea-3b29fabbf843",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/WgeEhyQJXiw7.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -442,7 +442,7 @@
           {
             "id": "01a1e328-c671-7555-97c6-0873f5039d8c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/dfv9D50gx214.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -450,7 +450,7 @@
           {
             "id": "01a1e328-c671-785c-9658-33855cc37564",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/8N50XgrtQ61O.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -458,7 +458,7 @@
           {
             "id": "01a1e328-c671-7abd-a554-846a83b397fa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/hJfpsam7BAqP.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -466,7 +466,7 @@
           {
             "id": "01a1e328-c671-7d09-9339-0fc684c1a185",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/N0OIEp8VTgwr.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -474,7 +474,7 @@
           {
             "id": "01a1e328-c671-7fba-b3e9-dc082cd6adfa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/OGT98eVyubCr.jpg",
-            "sortOrder": 10,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -482,7 +482,7 @@
           {
             "id": "01a1e328-c673-719b-a86e-3f95564cdbe2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/eoJYKtvEVQZU.jpg",
-            "sortOrder": 11,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -490,7 +490,7 @@
           {
             "id": "01a1e328-c673-746d-80b8-746947357570",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/16/BuFEtyoeIQ4C.jpg",
-            "sortOrder": 12,
+            "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1186,14 +1186,14 @@
   ],
   "homepage": {
     "id": "01a1e72b-8672-7b7f-aa28-15f204b04d8e",
-    "domain": "bsjecheon.kr",
+    "domain": "bsjecheon.com",
     "templateType": "trip_d",
     "images": [
       {
         "logo": [
           {
-            "id": "01a1e789-680f-7814-9a70-22c4d5b67231",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/logo/1794885904076-ieo9afs3br.png",
+            "id": "01a1e796-bb67-70ee-9595-f92728c96819",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1e72b-8672-7b7f-aa28-15f204b04d8e/logo/1794886777424-eukh6hxm68.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
